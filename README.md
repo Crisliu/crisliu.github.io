@@ -1,3 +1,28 @@
+``` Still in develop ```
+# Cris (Jiangyang) Liu
+Data Scientist with Background in Maths & Statistics
+
+### Contact Info
+* email: crisljy<at>gmail.com
+* cel: (+1) 631 488 7785
+* linkedin: [https://www.linkedin.com/in/crisliu/](https://www.linkedin.com/in/crisliu/)
+
+### Areas of Interest
+
+Machine learning,  NLP/Text Analytics, Credit Risk Scorecard
+
+I am recently Deep learning, Artificial Intelligence
+
+
+
+
+
+
+
+### Help:
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Crisliu/crisliu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
